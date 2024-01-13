@@ -35,6 +35,6 @@ fun main(){
 //    println("The value after decrementing b is "+(--b))
 
     println(b++ + ++b) // (56 = 56 + 1 = 57) + (56 + 1 = 57)
-//    println(b)
-//    println(++b)
+    /*println(b)
+    println(++b)*/
 }
