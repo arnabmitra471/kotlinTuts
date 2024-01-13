@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0001e04a-7b58-437d-ab49-55989edc0851" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/META-INF/main.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/src/META-INF/main.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/operators_kotlin.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/operators_kotlin.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +39,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "run.code.analysis.last.selected.profile": "pProject Default",
     "settings.editor.selected.configurable": "preferences.editor.code.editing"
   }
 }]]></component>
@@ -73,5 +74,31 @@
       <updated>1705117285316</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="User">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="*" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
