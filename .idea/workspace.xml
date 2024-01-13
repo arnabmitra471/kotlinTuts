@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0001e04a-7b58-437d-ab49-55989edc0851" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/operators_kotlin.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/operators_kotlin.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/META-INF/main.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/src/META-INF/main.kotlin_module" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +22,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "arnabmitra471"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="9a1eb70b-27bc-49ab-96c0-2647064f942d" />
+        <option name="url" value="https://github.com/arnabmitra471/kotlinTuts.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
